@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>D.R.Jayasree - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #f0f2f5;
+            padding: 40px;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            width: 70%;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>D.R.Jayasree</h1>
+    <h3>Frontend Developer</h3>
+
+    <h2>About Me</h2>
+    <p>I am a passionate developer learning web development.</p>
+
+    <h2>Skills</h2>
+    <p>HTML | CSS | JavaScript</p>
+
+    <h2>Projects</h2>
+    <p>Project 1 - Personal Website</p>
+    <p>Project 2 - Calculator App</p>
+
+    <h2>Contact</h2>
+    <p>Email: drj7799@email.com</p>
+</div>
+
+</body>
+</html>
